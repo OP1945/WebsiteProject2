@@ -1,3 +1,3 @@
-# WebsiteProject1
+# WebsiteProject2
 
 This is just a school project
