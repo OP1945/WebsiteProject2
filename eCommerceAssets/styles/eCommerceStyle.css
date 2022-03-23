@@ -214,7 +214,8 @@ hr{
 }
 /* Offer text banner*/
 #offer {
-	font-family: Agency FB;
+	font-family: 
+		FB;
 	clear: both;
 	
 	float:left;
@@ -304,7 +305,7 @@ hr{
 /* Prices of a products in catalog */
 .productRow .productInfo .price {
 	font-family: Agency FB;
-	color: rgba(146,146,146,1.00);
+	color: white;
 	font-size: 22px;
 	position: relative;
 	top: -20px;
