@@ -108,7 +108,7 @@ header {
 
 .prices{
 	height: 100%;
-	color: rgba(255,255,255,1.00);
+	color: white;
 	text-align: right;
 }
 .amount{
@@ -325,7 +325,7 @@ hr{
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
-	color: rgba(146,146,146,1.00);
+	color: white;
 	white-space: pre-wrap;
 }
 /* Buy button for products in catalog */
