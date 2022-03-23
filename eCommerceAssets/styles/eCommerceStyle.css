@@ -108,6 +108,7 @@ header {
 
 .prices{
 	height: 100%;
+	color: rgba(255,255,255,1.00);
 	text-align: right;
 }
 .amount{
