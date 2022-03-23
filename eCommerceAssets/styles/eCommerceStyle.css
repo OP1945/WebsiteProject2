@@ -479,6 +479,7 @@ footer .footerlinks {
 /* Prices of products in catalog view */
 .productRow .productInfo .price {
 	font-size: 19px;
+	color: white;
 }
 /* Content holders in catalog view */
 .productRow .productInfo .productContent {
